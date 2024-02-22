@@ -9,6 +9,6 @@ export default {
   name: 'App'
 }
 </script>
-<style lang="scss">
-  @import './styles/index.scss'; // 全局自定义的css样式
+<style lang="less">
+  @import './styles/index.less'; // 全局自定义的css样式
 </style>

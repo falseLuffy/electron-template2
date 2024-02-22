@@ -38,8 +38,8 @@ export default {
 }
 </script>
 
-<style rel="stylesheet/scss" lang="scss" scoped>
-  @import "../../styles/mixin.scss";
+<style rel="stylesheet/scss" lang="less" scoped>
+  @import "../../styles/mixin.less";
   .app-wrapper {
     @include clearfix;
     position: relative;
